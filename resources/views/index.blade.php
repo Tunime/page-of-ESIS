@@ -40,6 +40,9 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                     <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Home</a>
+                        </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Acerca de
@@ -50,14 +53,18 @@
                                 <a class="dropdown-item" href="#">Objetivos</a>
                             </div>
                         </li> 
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Plana Docente</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Adminitrativo</a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="#">Autoridades</a>
+                                <a class="dropdown-item" href="#">Plana Docente</a>
+                            </div>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Novedades</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Biblioteca</a>
+                            <a class="nav-link" href="#">Plan de estudio</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -67,8 +74,13 @@
                                 <a class="dropdown-item" href="#">Conograma Academico</a>
                                 <a class="dropdown-item" href="#">Horarios</a>
                                 <a class="dropdown-item" href="#">Aula Virtual</a>
+                                <a class="dropdown-item" href="#">Normativa</a>
+                                <a class="dropdown-item" href="#">Reglamento</a>
                             </div>
-                        </li>  
+                        </li> 
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Egresados</a>
+                        </ 
                     </ul>
                 </div>
             </nav>
@@ -80,7 +92,7 @@
         <div class="container">
             <div class="header d-flex align-items-center">
                 <span class="">
-                    <h1 class="header__titulo"><span class="text-white">ESCUELA PROFESIONAL DE</span><br> INGENIERÍA EN INFORMATICA Y<br> SISTEMAS</h1>
+                    <h1 class="header__titulo"><span class="text-white">ESCUELA PROFESIONAL DE</span><br> INGENIERÍA EN INFORÁTICA Y<br> SISTEMAS</h1>
                     <div class="header__pie backprimario"></div>
                     <p  class="header__subtitulo">FACULTAD DE INGENIERIA</p>
                     <a class="header__boton btn--activado" href="#">LEER MAS</a>
@@ -174,7 +186,7 @@
                          <a class="navbar-brand" href="#">
                             <img class="menu__logo" src="images/logounjbg.png" height="50" alt="logo-unjbg">
                         </a>
-                        <p class="footer__pie ml-5">Ciudad Universitaria<br>Av.miraflores S/N<br>central telefonico 052-583000<br>Tacna-Peru</p>
+                        <p class="footer__pie ml-5">Ciudad Universitaria<br>Av.miraflores S/N Tacna -Perú<br>central telefonico 052-583000</p>
                     </div>
                     <div class="col-2 d-none d-md-block">
                         <a class="nav-link footer__menu" href="#">Acerca de</a>
