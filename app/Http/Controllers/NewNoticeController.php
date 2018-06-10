@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Controllers\Backend\News;
+namespace App\Http\Controllers;
 
-use App\Models\NewNotice;
+use App\NewNotice;
 use Illuminate\Http\Request;
 
 class NewNoticeController extends Controller
