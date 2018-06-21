@@ -33,10 +33,30 @@ body{
     font-size: 13px;
     color: #fff;
 }
-
+.menu__item{
+    font-size: 12px;
+    font-weight: 600;
+}
+.dropdown-menu{
+    background: #f3f3f3;
+}
+.nav-link:hover {
+    color: #017ac5 !important;
+    border-bottom: solid 2px #017ac5;
+}
 
 .header__principal{
     background: url("../images/fondopri.png");
+    background-size: cover;
+    background-position: center;
+}
+.header__segundario{
+    background: url("../images/fondodos.png");
+    background-size: cover;
+    background-position: center;
+}
+.header__tercero{
+    background: url("../images/fondodos.png");
     background-size: cover;
     background-position: center;
 }
@@ -47,6 +67,8 @@ body{
     font-size: 42px;
     color: #017ac5;
     font-weight: bold;
+    text-align: left;
+    
 }
 .header__pie{
     height: 7px;
@@ -65,7 +87,15 @@ body{
     font-size: 21px;
     font-weight: 400;
     margin:  27px 0 0 0;
-    padding: 1em 0 0 0;
+    padding: 1em 0 0.5em 0;
+    border-bottom: solid 2px #017ac5;
+}
+.menulateral{
+    padding: 0.5em 0 0 0;
+    list-style: none;
+}
+.menulateral__item{
+    color: #017ac5;
 }
 .noticias__item{
     margin:  27px 0 0 0;
@@ -75,6 +105,10 @@ body{
 }
 .item__title{
     font-size: 20px;
+    font-weight: bold;
+}
+.item__title--comunicado{
+    font-size: 15px;
     font-weight: bold;
 }
 .item__contenido{

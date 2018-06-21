@@ -11,11 +11,18 @@
 |
 */
 
+
 Route::get('/', function () {
-    return view('welcome');
-});
-Route::get('/index', function () {
     return view('index');
+});
+Route::get('/vision', function () {
+    return view('vision');
+});
+Route::get('/autoridades', function () {
+    return view('autoridades');
+});
+Route::get('/novedades', function () {
+    return view('novedades');
 });
 
 
