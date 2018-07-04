@@ -11,7 +11,7 @@
                     <div class="seccion carousel-caption ">
                        <div class="header d-flex align-items-center">
                             <span class="text-left">
-                                <h1 class="header__titulo"><span class="text-white">ESCUELA PROFESIONAL DE</span><br> INGENIERÍA EN INFORÁTICA Y<br> SISTEMAS</h1>
+                                <h1 class="header__titulo"><span class="text-white">ESCUELA PROFESIONAL DE</span><br> INGENIERÍA EN INFORMÁTICA Y<br> SISTEMAS</h1>
                                 <div class="header__pie backprimario"></div>
                                 <p  class="header__subtitulo">FACULTAD DE INGENIERIA</p>
                                 <a class="header__boton btn--activado" href="#">LEER MAS</a>
@@ -49,48 +49,13 @@
                     <!--Comiensa las noticias-->
                     <div class="container-fluid">
                         <div id="vision" class="container noticias ">
-                            <h2 class="presentacion__title ">Autoridades</h2>
+                            <h2 class="presentacion__title ">Plan de Estudio</h2>
                             <article class="noticias__item">
                                 <div class="row d-flex align-items-center">
-                                    <figure class="col-lg-3">
-                                        <img src="http://www.unjbg.edu.pe/img/2017-7/78451.JPG" alt="..." class="img-thumbnail">
-                                    </figure>
-                                    <div class="col-lg-8">
-                                        <h3 class="item__title">MSc. EDGARDO TEÓFILO VALDEZ CORTIJO</h3>
-                                        <p class="item__contenido">DECANO DE LA FACULTAD DE INGENIERÍA</p>
-                                    </div>
-                                </div>
-                            </article>
-                            <article class="noticias__item">
-                                <div class="row d-flex align-items-center">
-                                    <figure class="col-lg-3">
-                                        <img src="http://www.unjbg.edu.pe/img/2017-7/78451.JPG" alt="..." class="img-thumbnail">
-                                    </figure>
-                                    <div class="col-lg-8">
-                                        <h3 class="item__title">Dr. EDWIN ANTONIO HINOJOSA RAMOS</h3>
-                                        <p class="item__contenido">DIRECTOR DE LA ESCUELA PROFESIONAL DE INGENIERÍA EN INFORMÁTICA Y SISTEMAS</p>
-                                    </div>
-                                </div>
-                            </article>
-                            <article class="noticias__item">
-                                <div class="row d-flex align-items-center">
-                                    <figure class="col-lg-3">
-                                        <img src="http://www.unjbg.edu.pe/img/2017-7/78451.JPG" alt="..." class="img-thumbnail">
-                                    </figure>
-                                    <div class="col-lg-8">
-                                        <h3 class="item__title">Dr. EDGAR FAUSTINO TAYA OSORIO</h3>
-                                        <p class="item__contenido">SECRETARIO ACADÉMICO ADMINISTRATIVO DE LA FACULTAD DE INGENIERÍA</p>
-                                    </div>
-                                </div>
-                            </article>
-                            <article class="noticias__item">
-                                <div class="row d-flex align-items-center">
-                                    <figure class="col-lg-3">
-                                        <img src="http://www.unjbg.edu.pe/img/2017-7/78451.JPG" alt="..." class="img-thumbnail">
-                                    </figure>
-                                    <div class="col-lg-8">
-                                        <h3 class="item__title">Mg. GIANFRANCO ALEXEY MÁLAGA TEJADA</h3>
-                                        <p class="item__contenido">DIRECTOR DEL DEPARTAMENTO ACADÉMICO DE INGENIERÍA EN INFORMÁTICA Y SISTEMAS</p>
+                                    <div class="col-lg-9">
+                                        <h3 class="item__title">Plan de estudio 2018</h3>
+                                        <p>Para lograr los competencias del perfil del egresado debe pasarse a una nueva etapa de organización y estructuración curricular, que incluye el plan de estudio (Plan curricular) que abarca la determinación de contenidos curriculares, estructuración y organización de los mismos.</p>
+                                        <a class="header__boton btn--activado" href="#">Descargar</a>
                                     </div>
                                 </div>
                             </article>

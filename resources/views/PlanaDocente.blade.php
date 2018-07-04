@@ -49,15 +49,16 @@
                     <!--Comiensa las noticias-->
                     <div class="container-fluid">
                         <div id="vision" class="container noticias ">
-                            <h2 class="presentacion__title ">Autoridades</h2>
+                            <h2 class="presentacion__title ">Plana Docente</h2>
                             <article class="noticias__item">
                                 <div class="row d-flex align-items-center">
                                     <figure class="col-lg-3">
                                         <img src="http://www.unjbg.edu.pe/img/2017-7/78451.JPG" alt="..." class="img-thumbnail">
                                     </figure>
-                                    <div class="col-lg-8">
+                                    <div class="col-lg-9">
                                         <h3 class="item__title">MSc. EDGARDO TEÓFILO VALDEZ CORTIJO</h3>
-                                        <p class="item__contenido">DECANO DE LA FACULTAD DE INGENIERÍA</p>
+                                        <h5 class="item__contenido">DECANO DE LA FACULTAD DE INGENIERÍA</h5>
+                                        <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not.</p>
                                     </div>
                                 </div>
                             </article>
@@ -66,9 +67,22 @@
                                     <figure class="col-lg-3">
                                         <img src="http://www.unjbg.edu.pe/img/2017-7/78451.JPG" alt="..." class="img-thumbnail">
                                     </figure>
-                                    <div class="col-lg-8">
-                                        <h3 class="item__title">Dr. EDWIN ANTONIO HINOJOSA RAMOS</h3>
-                                        <p class="item__contenido">DIRECTOR DE LA ESCUELA PROFESIONAL DE INGENIERÍA EN INFORMÁTICA Y SISTEMAS</p>
+                                    <div class="col-lg-9">
+                                        <h3 class="item__title">MSc. EDGARDO TEÓFILO VALDEZ CORTIJO</h3>
+                                        <h5 class="item__contenido">DECANO DE LA FACULTAD DE INGENIERÍA</h5>
+                                        <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not.</p>
+                                    </div>
+                                </div>
+                            </article>
+                           <article class="noticias__item">
+                                <div class="row d-flex align-items-center">
+                                    <figure class="col-lg-3">
+                                        <img src="http://www.unjbg.edu.pe/img/2017-7/78451.JPG" alt="..." class="img-thumbnail">
+                                    </figure>
+                                    <div class="col-lg-9">
+                                        <h3 class="item__title">MSc. EDGARDO TEÓFILO VALDEZ CORTIJO</h3>
+                                        <h5 class="item__contenido">DECANO DE LA FACULTAD DE INGENIERÍA</h5>
+                                        <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not.</p>
                                     </div>
                                 </div>
                             </article>
@@ -77,20 +91,22 @@
                                     <figure class="col-lg-3">
                                         <img src="http://www.unjbg.edu.pe/img/2017-7/78451.JPG" alt="..." class="img-thumbnail">
                                     </figure>
-                                    <div class="col-lg-8">
-                                        <h3 class="item__title">Dr. EDGAR FAUSTINO TAYA OSORIO</h3>
-                                        <p class="item__contenido">SECRETARIO ACADÉMICO ADMINISTRATIVO DE LA FACULTAD DE INGENIERÍA</p>
+                                    <div class="col-lg-9">
+                                        <h3 class="item__title">MSc. EDGARDO TEÓFILO VALDEZ CORTIJO</h3>
+                                        <h5 class="item__contenido">DECANO DE LA FACULTAD DE INGENIERÍA</h5>
+                                        <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not.</p>
                                     </div>
                                 </div>
                             </article>
-                            <article class="noticias__item">
+                           <article class="noticias__item">
                                 <div class="row d-flex align-items-center">
                                     <figure class="col-lg-3">
                                         <img src="http://www.unjbg.edu.pe/img/2017-7/78451.JPG" alt="..." class="img-thumbnail">
                                     </figure>
-                                    <div class="col-lg-8">
-                                        <h3 class="item__title">Mg. GIANFRANCO ALEXEY MÁLAGA TEJADA</h3>
-                                        <p class="item__contenido">DIRECTOR DEL DEPARTAMENTO ACADÉMICO DE INGENIERÍA EN INFORMÁTICA Y SISTEMAS</p>
+                                    <div class="col-lg-9">
+                                        <h3 class="item__title">MSc. EDGARDO TEÓFILO VALDEZ CORTIJO</h3>
+                                        <h5 class="item__contenido">DECANO DE LA FACULTAD DE INGENIERÍA</h5>
+                                        <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not.</p>
                                     </div>
                                 </div>
                             </article>

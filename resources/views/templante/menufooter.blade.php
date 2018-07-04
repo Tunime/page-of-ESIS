@@ -10,9 +10,25 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="css/template.css" >
     
-    <title>Escuela de Sistemas</title>
+    <title>ESIS-UNJBG</title>
   </head>
   <body>
+   <div class="cocontainer-fluid backprimario">
+            <div class="container backprimario">
+                <nav class=" navbar navbar-expand-lg navbar-dark backprimario">
+                    <div class="nenu-moca collapse navbar-collapse d-flex justify-content-end">
+                        <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <div style="padding: .0 1rem;" class="text-white d-flex align-items-center menu__informacion"> <i class="material-icons">mail_outline</i>esis@unjbg.edu.pe</div>
+                        </li>
+                        <li class="nav-item">
+                            <div style="padding: .0 0;" class="text-white d-flex align-items-center menu__informacion"><i class="material-icons">call</i>052-58300 Anexo 2005</div>
+                        </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
     <div class="container-fluid bg-white">
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light bg-white">
@@ -38,28 +54,24 @@
                             </div>
                         </li> 
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle menu__item" href="" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">ADMINISTRATIVO</a>
+                            <a class="nav-link dropdown-toggle menu__item" href="" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">ORGANIZACIÓN</a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <a class="dropdown-item menu__item" href="/autoridades">AUTORIDADES</a>
-                                <a class="dropdown-item menu__item" href="#">PLANA DOCENTE</a>
+                                <a class="dropdown-item menu__item" href="/planadocente">PLANA DOCENTE</a>
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link menu__item" href="/novedades">NOVEDADES</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link menu__item" href="#">PLAN DE ESTUDIO</a>
+                            <a class="nav-link menu__item" href="/plandeestudio">PLAN DE ESTUDIO</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle menu__item" href="" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 ALUMNO
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <a class="dropdown-item menu__item" href="#">CRONOGRAMA ACADEMICO</a>
+                                <a class="dropdown-item menu__item" href="/cronogramaacademico">CALENDARIO ACADEMICO</a>
                                 <a class="dropdown-item menu__item" href="#">HORARIOS</a>
-                                <a class="dropdown-item menu__item" href="#">AULA VIRTUAL</a>
-                                <a class="dropdown-item menu__item" href="#">NORMATIVA</a>
-                                <a class="dropdown-item menu__item" href="#">REGLAMENTO</a>
+                                <a class="dropdown-item menu__item" href="http://www.aula.unjbg.edu.pe/login/index.php">AULA VIRTUAL</a>
+                                <a class="dropdown-item menu__item" href="#">REGLAMENTOS</a>
                             </div>
                         </li> 
                         <li class="nav-item ">
@@ -83,25 +95,31 @@
                         </a>
                         <p class="footer__pie ml-5">Ciudad Universitaria<br>Av.miraflores S/N Tacna -Perú<br>central telefonico 052-583000</p>
                     </div>
-                    <div class="col-2 d-none d-md-block">
-                        <a class="nav-link footer__menu" href="#">INICIO</a>
-                        <a class="nav-link footer__menu" href="#">VISION</a>
-                        <a class="nav-link footer__menu" href="#">MISION</a>
-                    </div>
-                    <div class="col-2 d-none d-md-block">
-                        <a class="nav-link footer__menu" href="#">OBJETIVOS</a>
-                        <a class="nav-link footer__menu" href="#">HISTORIA</a>
-                        <a class="nav-link footer__menu" href="#">AUTORIDADES</a>
-                    </div>
-                    <div class="col-2 d-none d-md-block">
-                        <a class="nav-link footer__menu" href="#">PLANA DOCENTE</a>
-                        <a class="nav-link footer__menu" href="#">NOVEDADES</a>
-                        <a class="nav-link footer__menu" href="#">HORARIOS</a>
-                    </div>
-                    <div class="col-2 d-none d-md-block">
-                        <a class="nav-link footer__menu" href="#">AULA VIRTUAL</a>
-                        <a class="nav-link footer__menu" href="#">NORMATIVA</a>
-                        <a class="nav-link footer__menu" href="#">REGLAMENTO</a>
+                    <div class="col-md-8 col-lg-6 d-none d-md-block">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-2 d-none d-md-block">
+                                    <a class="footer__menu" href="#">INICIO</a>
+                                    <a class="footer__menu" href="#">VISION</a>
+                                    <a class="footer__menu" href="#">MISION</a>
+                                </div>
+                                <div class="col-3 d-none d-md-block">
+                                    <a class="footer__menu" href="#">OBJETIVOS</a>
+                                    <a class="footer__menu" href="#">HISTORIA</a>
+                                    <a class="footer__menu" href="#">AUTORIDADES</a>
+                                </div>
+                                <div class="col-3 d-none d-md-block">
+                                    <a class="footer__menu" href="#">PLANA DOCENTE</a>
+                                    <a class="footer__menu" href="#">NOVEDADES</a>
+                                    <a class="footer__menu" href="#">HORARIOS</a>
+                                </div>
+                                <div class="col-3 d-none d-md-block">
+                                    <a class="footer__menu" href="#">AULA VIRTUAL</a>
+                                    <a class="footer__menu" href="#">NORMATIVA</a>
+                                    <a class="footer__menu" href="#">REGLAMENTO</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

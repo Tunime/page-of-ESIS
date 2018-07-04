@@ -49,48 +49,13 @@
                     <!--Comiensa las noticias-->
                     <div class="container-fluid">
                         <div id="vision" class="container noticias ">
-                            <h2 class="presentacion__title ">Autoridades</h2>
+                            <h2 class="presentacion__title ">Calendario Academico</h2>
                             <article class="noticias__item">
                                 <div class="row d-flex align-items-center">
-                                    <figure class="col-lg-3">
-                                        <img src="http://www.unjbg.edu.pe/img/2017-7/78451.JPG" alt="..." class="img-thumbnail">
-                                    </figure>
-                                    <div class="col-lg-8">
-                                        <h3 class="item__title">MSc. EDGARDO TEÓFILO VALDEZ CORTIJO</h3>
-                                        <p class="item__contenido">DECANO DE LA FACULTAD DE INGENIERÍA</p>
-                                    </div>
-                                </div>
-                            </article>
-                            <article class="noticias__item">
-                                <div class="row d-flex align-items-center">
-                                    <figure class="col-lg-3">
-                                        <img src="http://www.unjbg.edu.pe/img/2017-7/78451.JPG" alt="..." class="img-thumbnail">
-                                    </figure>
-                                    <div class="col-lg-8">
-                                        <h3 class="item__title">Dr. EDWIN ANTONIO HINOJOSA RAMOS</h3>
-                                        <p class="item__contenido">DIRECTOR DE LA ESCUELA PROFESIONAL DE INGENIERÍA EN INFORMÁTICA Y SISTEMAS</p>
-                                    </div>
-                                </div>
-                            </article>
-                            <article class="noticias__item">
-                                <div class="row d-flex align-items-center">
-                                    <figure class="col-lg-3">
-                                        <img src="http://www.unjbg.edu.pe/img/2017-7/78451.JPG" alt="..." class="img-thumbnail">
-                                    </figure>
-                                    <div class="col-lg-8">
-                                        <h3 class="item__title">Dr. EDGAR FAUSTINO TAYA OSORIO</h3>
-                                        <p class="item__contenido">SECRETARIO ACADÉMICO ADMINISTRATIVO DE LA FACULTAD DE INGENIERÍA</p>
-                                    </div>
-                                </div>
-                            </article>
-                            <article class="noticias__item">
-                                <div class="row d-flex align-items-center">
-                                    <figure class="col-lg-3">
-                                        <img src="http://www.unjbg.edu.pe/img/2017-7/78451.JPG" alt="..." class="img-thumbnail">
-                                    </figure>
-                                    <div class="col-lg-8">
-                                        <h3 class="item__title">Mg. GIANFRANCO ALEXEY MÁLAGA TEJADA</h3>
-                                        <p class="item__contenido">DIRECTOR DEL DEPARTAMENTO ACADÉMICO DE INGENIERÍA EN INFORMÁTICA Y SISTEMAS</p>
+                                    <div class="col-lg-9">
+                                        <h3 class="item__title">Calendario academico 2018</h3>
+                                        <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                        <a class="header__boton btn--activado" href="#">Descargar</a>
                                     </div>
                                 </div>
                             </article>
@@ -99,21 +64,6 @@
                     <!--Fin de las noticias-->
                 </div>
                 <div class="col-lg-4 col-md-5">
-                    <!--Comienso de link-->
-                    <div class="container-fluid backsegundario pb-3">
-                        <div class="container eventos backsegundario">
-                            <h2 class="presentacion__title">Enlases Útiles</h2>
-                                <li  class="menulateral d-flex align-items-center">
-                                    <i class="material-icons">keyboard_arrow_right</i>
-                                    <a class=" menulateral__item" href="#">Autoridades</a>
-                                </li>
-                                <li  class="menulateral d-flex align-items-center">
-                                    <i class="material-icons">keyboard_arrow_right</i>
-                                    <a class=" menulateral__item" href="#">Plana docente</a>
-                                </li>
-                        </div>
-                    </div>
-                    <!--Fin de link-->
                      <!--Comienso de comunicados-->
                     <div class="container-fluid backsegundario">
                         <div class="container eventos backsegundario">

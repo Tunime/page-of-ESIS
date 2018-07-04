@@ -21,9 +21,17 @@ Route::get('/vision', function () {
 Route::get('/autoridades', function () {
     return view('autoridades');
 });
-Route::get('/novedades', function () {
-    return view('novedades');
+Route::get('/planadocente', function () {
+    return view('PlanaDocente');
 });
+Route::get('/plandeestudio', function () {
+    return view('PlanEstudio');
+});
+
+Route::get('/cronogramaacademico', function () {
+    return view('alumno.cronograma');
+});
+
 
 
 Route::group(['prefix' => 'admin'], function () {

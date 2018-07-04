@@ -2,6 +2,9 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.menu__informacion{
+    font-size: 12px;
+}
 .dropdown:hover>.dropdown-menu {
     display: block;
 }
@@ -32,6 +35,9 @@ body{
 .footer__menu{
     font-size: 13px;
     color: #fff;
+}
+.footer__menu:hover{
+    color: #013e64 !important;
 }
 .menu__item{
     font-size: 12px;
